@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Uboatwaffe
 - 👀 I’m interested in programing as you might already guessed!
 - 🌱 I’m currently learning Java, C++ and Python
+- 💡 I know also SQL, HTML and CSS but i do not spend my time using these languages now
 - 💞 My main programing language is Java (which I love)
 - 👨‍💻 I'm mostly proud of repository BubbleSort
 
