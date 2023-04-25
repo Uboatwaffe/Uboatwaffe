@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Uboatwaffe
 - 👀 I’m interested in programing as you might already guessed!
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, C++ and Python
+- 💞 My main programing language is Java (which I love)
 - 👨‍💻 I'm mostly proud of repository BubbleSort
+
+Just because I'm an IT guy doesn't mean I can fix your printer, I mean I can, but not because I'm an IT guy 😜
 
 <!---
 Uboatwaffe/Uboatwaffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
