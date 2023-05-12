@@ -5,7 +5,7 @@
 - 💞 My main programing language is Java (which I love)
 - 👨‍💻 I'm mostly proud of repository BubbleSort
 
-Just because I'm an IT guy doesn't mean I can fix your printer, I mean I can, but not because I'm an IT guy 😜
+"Just because I'm an IT guy doesn't mean I can fix your printer, I mean I can, but not because I'm an IT guy" - me
 
 <!---
 Uboatwaffe/Uboatwaffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
